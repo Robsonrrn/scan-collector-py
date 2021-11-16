@@ -1,0 +1,2 @@
+[28280:28280:0727/195303.083849:ERROR:edid_parser.cc(102)] Too short EDID data: manufacturer id
+[28316:28316:0727/195303.277088:ERROR:viz_main_impl.cc(152)] Exiting GPU process due to errors during initialization
